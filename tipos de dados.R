@@ -14,3 +14,4 @@ if(!f)
   print("Falso")
 
 typeof(a & b)
+g <- 10L #Siginifica número inteiro
